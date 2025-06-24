@@ -33,7 +33,7 @@ written textinto spoken words using the **Web Speech API**. Ideal for accessibil
 
 ## 📷 Preview
 
-![Screenshot](./screenshot.png)
+![Screenshot](screenshot.png)
 
 
 
