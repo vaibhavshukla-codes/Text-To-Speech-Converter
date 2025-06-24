@@ -31,9 +31,8 @@ written textinto spoken words using the **Web Speech API**. Ideal for accessibil
 
 ## 📷 Preview
 
-## 📷 Preview
+![Preview](Screenshot.png)
 
-![Screenshot](screenshot.png)
 
 
 
